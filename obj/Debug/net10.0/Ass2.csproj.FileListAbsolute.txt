@@ -1,0 +1,14 @@
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\bin\Debug\net10.0\Ass2.exe
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\bin\Debug\net10.0\Ass2.deps.json
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\bin\Debug\net10.0\Ass2.runtimeconfig.json
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\bin\Debug\net10.0\Ass2.dll
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\bin\Debug\net10.0\Ass2.pdb
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\Ass2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\Ass2.AssemblyInfoInputs.cache
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\Ass2.AssemblyInfo.cs
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\Ass2.csproj.CoreCompileInputs.cache
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\Ass2.dll
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\refint\Ass2.dll
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\Ass2.pdb
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\Ass2.genruntimeconfig.cache
+D:\Downloads\LINQSolution-master\LINQSolution-master\Ass2\obj\Debug\net10.0\ref\Ass2.dll
